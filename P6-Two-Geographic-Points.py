@@ -1,7 +1,3 @@
-# KDeaneP6
-#Programmer: Kyrsti Deane
-#Email: kdeane1@cnm.edu
-#Purpose: distance between two points given longitaude & latitude in decimal degrees
 
 # Import Statements
 import math
